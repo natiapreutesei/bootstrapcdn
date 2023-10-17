@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'mpr';
+    src: url("../webfonts/MYRIADPRO-REGULAR.woff");
+}
+@font-face {
+    font-family: 'sgwl';
+    src: url("../webfonts/segoe-wp-light.ttf");
+}
+@font-face {
+    font-family: 'sgw';
+    src: url("../webfonts/SegoeWPN.woff");
+}
+nav{
+    font-family: mpr;
+}
+.navbar-brand{
+    font-size: 42.35px;
+}
+nav ul a{
+    font-size: 20.35px;
+    color: #515f67;
+}
+#myarticles h3{
+    font-family: sgw;
+    font-size: 20.35px;
+    color: #5094f2;
+}
+#myarticles p{
+    font-family: mpr;
+    font-size: 14.35px;
+    color: #b7b7b7;
+}
+.mt-6{
+    margin-top: 29px;
+}
